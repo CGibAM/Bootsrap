@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color:  rgb(203, 197, 197);
+}
+
+.barra-nav{
+    background-color: blue;
+    color: aliceblue
+}
+
+.img{
+    background-color: orangered;
+    border: 1px solid black;
+}
+
+.parrafo{
+    background-color: violet;
+}
+
+.footer{
+    background-color: green;
+}
+
